@@ -1,0 +1,51 @@
+.mini{
+    text-align: center;
+    background-color: aqua;
+    color: white;
+}
+body{
+background-color: darkred;
+}
+.green{
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+}
+.red{
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+}
+.mega{
+    width: 300px;
+    padding: 15px;
+    background-color:white;
+    margin: 15px;
+    border-radius: 15px;
+    text-align: center;
+}
+.small{
+     width: 300px;
+    padding: 15px;
+    background-color:white;
+    margin: 15px;
+    border-radius: 15px;
+    text-align: center;
+}
+.black{
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+}
+.type{
+    width: 300px;
+    padding: 15px;
+    background-color:white;
+    margin: 15px;
+    border-radius: 15px;
+    text-align: center; 
+}
+.box{
+    background-color: bisque;
+    border-radius: 20px;
+}
